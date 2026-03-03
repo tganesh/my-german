@@ -53,11 +53,11 @@ A great source of information to learn and practice German as a foreign language
 
 ## Magazines
 
+* [Tagesschau](https://www.tagesschau.de/)
+* [Langsam Gesprochene Nachrichten](https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332).
 * [BILD](http://www.bild.de/)
-* [SPIEGEL](http://www.spiegel.de/)
 * [Wirtschaftswoche](http://www.wiwo.de/)
 * [FOCUS](http://www.focus.de/)
-* [Spex](http://www.spex.de/)
 * [Goethe-Institut](https://www.goethe.de/de/spr/mag.html)
 
 ## Radios
